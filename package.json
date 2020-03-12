@@ -15,7 +15,7 @@
   },
   "main": "./lib",
   "dependencies": {
-    "aws-sdk": "^2.638.0",
+    "aws-sdk": "^2.639.0",
     "lodash": "^4.17.15"
   },
   "strapi": {
@@ -35,10 +35,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/Sqveeze/strapi-provider-upload-scaleway"
   },
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/Sqveeze/strapi-provider-upload-scaleway/issues"
   },
   "engines": {
     "node": "^12.0.0",
