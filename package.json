@@ -1,0 +1,53 @@
+{
+  "name": "strapi-provider-upload-scaleway",
+  "version": "3.0.0-beta.19.3",
+  "description": "AWS S3 provider for strapi upload",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "upload",
+    "aws",
+    "s3",
+    "strapi",
+    "scaleway"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "aws-sdk": "^2.638.0",
+    "lodash": "^4.17.15"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "author": {
+    "name": "Sqveeze",
+    "email": "sqveeze0@gmail.com",
+    "url": "https://sqveeze.hu"
+  },
+  "maintainers": [
+    {
+      "name": "Sqveeze",
+      "email": "sqveeze0@gmail.com",
+      "url": "https://sqveeze.hu"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "engines": {
+    "node": "^12.0.0",
+    "yarn": "^1.0.0",
+    "npm": "^6.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "gitHead": "c85658a19b8fef0f3164c19693a45db305dc07a9"
+}
