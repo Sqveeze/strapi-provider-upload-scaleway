@@ -1,7 +1,7 @@
 {
   "name": "strapi-provider-upload-scaleway",
-  "version": "3.0.0-beta.19.3",
-  "description": "AWS S3 provider for strapi upload",
+  "version": "3.0.0-beta.19.5",
+  "description": "Scaleway (S3 compatible) provider for strapi upload",
   "homepage": "http://strapi.io",
   "keywords": [
     "upload",
@@ -22,9 +22,9 @@
     "isProvider": true
   },
   "author": {
-    "name": "Sqveeze",
-    "email": "sqveeze0@gmail.com",
-    "url": "https://sqveeze.hu"
+    "name": "Appforge",
+    "email": "hello@appforge.hu",
+    "url": "https://appforge.hu"
   },
   "maintainers": [
     {
